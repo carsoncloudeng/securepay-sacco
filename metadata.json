@@ -1,0 +1,5 @@
+{
+  "name": "SecurePay Sacco Trust Console",
+  "description": "A high-security dashboard for SecurePay Sacco, featuring AI-driven fraud detection and role-based access for member protection.",
+  "requestFramePermissions": []
+}
